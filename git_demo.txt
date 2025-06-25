@@ -12,8 +12,11 @@ jshdsjhfjsd
 
 before reset 
  for diff
+<<<<<<< HEAD
   
 add word for diff
 
 add word for diff --cached
+=======
+>>>>>>> 1f662c1a87761db1ea5ca421e425486639018fd7
 
