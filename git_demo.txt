@@ -11,5 +11,9 @@ vasanth
 jshdsjhfjsd
 
 before reset 
+ for diff
+  
+add word for diff
 
+add word for diff --cached
 
