@@ -12,14 +12,4 @@ jshdsjhfjsd
 
 before reset 
 
-<<<<<<< HEAD
-hello 
-=======
-
-to check for jumping
-
-checking.......
-
-
->>>>>>> 95fb4daa7847f984e71921776143a681ad4c2f80
 
